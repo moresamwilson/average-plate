@@ -47,4 +47,4 @@ To maximise contrast across the different colour palettes and clearly highlight 
 
 $$prob = \frac{prob - min(prob)}{max(prob - min(prob))}$$
 
-If you have any questions feel free to reach out on YouTube [@drsamwilson] (https://www.youtube.com/@drsamwilson) or Instagram [@thatsamwilson] (https://www.instagram.com/thatsamwilson). If you use the code for any interesting projects, I'd love to hear about it!
+If you have any questions feel free to reach out on YouTube [@drsamwilson](https://www.youtube.com/@drsamwilson) or Instagram [@thatsamwilson](https://www.instagram.com/thatsamwilson). If you use the code for any interesting projects, I'd love to hear about it!
